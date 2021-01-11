@@ -1,0 +1,6 @@
+[submodule "alumnos/juanma_moreno"]
+	path = alumnos/juanma_moreno
+	url = https://github.com/lanbacb6/HLC-PHP
+[submodule "alumnos/mario_pulido"]
+	path = alumnos/mario_pulido
+	url = https://github.com/marpul-git/hlc_php.git
