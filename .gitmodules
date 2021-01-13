@@ -4,3 +4,18 @@
 [submodule "alumnos/mario_pulido"]
 	path = alumnos/mario_pulido
 	url = https://github.com/marpul-git/hlc_php.git
+[submodule "alumnos/claudia_borrachero"]
+	path = alumnos/claudia_borrachero
+	url = https://github.com/ClaudiaBorrachero/HLC_2021
+[submodule "alumnos/jorge_cordero"]
+	path = alumnos/jorge_cordero
+	url = https://github.com/jcorderog/HLC-DAW.git
+[submodule "alumnos/carlos_puyana"]
+	path = alumnos/carlos_puyana
+	url = https://github.com/DrLocTiTe/HLC
+[submodule "alumnos/alvaro_membrillo"]
+	path = alumnos/alvaro_membrillo
+	url = https://github.com/alvaro-membrillo/HLC-PHP.git
+[submodule "alumnos/david_rodriguez"]
+	path = alumnos/david_rodriguez
+	url = https://github.com/davidrodriguezm/HLC
