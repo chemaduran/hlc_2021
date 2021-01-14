@@ -25,3 +25,9 @@
 [submodule "alumnos/david_gonzalez"]
 	path = alumnos/david_gonzalez
 	url = https://github.com/david-alixar/DAW2-HLC
+[submodule "alumnos/adrian_romero"]
+	path = alumnos/adrian_romero
+	url = https://github.com/adrianromeroo/HLC_DAW
+[submodule "alumnos/marco_corona"]
+	path = alumnos/marco_corona
+	url = https://github.com/mantoniocoronac/HLCDAW
