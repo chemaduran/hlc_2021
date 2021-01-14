@@ -19,3 +19,9 @@
 [submodule "alumnos/david_rodriguez"]
 	path = alumnos/david_rodriguez
 	url = https://github.com/davidrodriguezm/HLC
+[submodule "alumnos/cesar_gomez"]
+	path = alumnos/cesar_gomez
+	url = https://github.com/CGGomez/HLC-PHP-HLC
+[submodule "alumnos/david_gonzalez"]
+	path = alumnos/david_gonzalez
+	url = https://github.com/david-alixar/DAW2-HLC
